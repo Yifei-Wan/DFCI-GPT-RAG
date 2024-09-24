@@ -1,0 +1,200 @@
+SAMPLEID,PRIMARYDIAGNOSISDSC,BIOPSYSITEDSC,BIOPSYSITENM,METAMAINTYPECD,TUMORPURITYPCT
+1,Diffuse Glioma,CNS/Brain,PRIMARY,Glioma,60
+2,Non-Small Cell Lung Cancer,Lung,PRIMARY,Non-Small Cell Lung Cancer,25
+3,Colon Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,20
+4,Lung Squamous Cell Carcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,60
+5,Lung Adenocarcinoma,Soft Tissue,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,20
+6,Pancreatic Adenocarcinoma,Pancreas,PRIMARY,Pancreatic Cancer,15
+7,Lung Adenocarcinoma,Pleura,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,15
+8,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,Uterus,PRIMARY,Endometrial Cancer,70
+9,Glioblastoma,CNS/Brain,LOCAL RECURRENCE,Glioma,50
+10,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,60
+11,Colon Adenocarcinoma,Lung,METASTATIC RECURRENCE,Colorectal Cancer,30
+12,Breast Invasive Ductal Carcinoma,Breast,PRIMARY,Breast Carcinoma,60
+13,Mixed Germ Cell Tumor,Testis,PRIMARY,Germ Cell Tumor,60
+14,Schwannoma,Soft Tissue,UNSPECIFIED,Nerve Sheath Tumor,80
+15,Medulloblastoma,CNS/Brain,PRIMARY,Embryonal Tumor,80
+16,"High-Grade Glioma, NOS",CNS/Brain,PRIMARY,Glioma,50
+17,Glioblastoma,CNS/Brain,LOCAL RECURRENCE,Glioma,70
+18,Colorectal Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,30
+19,Stomach Adenocarcinoma,Esophagus/Stomach,PRIMARY,Esophagogastric Carcinoma,40
+20,Small Cell Lung Cancer,Liver,METASTATIC RECURRENCE,Small Cell Lung Cancer,40
+21,Papillary Thyroid Cancer,Lymph,METASTATIC RECURRENCE,Thyroid Cancer,70
+22,"High-Grade Glioma, NOS",CNS/Brain,PRIMARY,Glioma,60
+23,Rectal Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,30
+24,Colon Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,60
+25,Pancreatic Adenocarcinoma,Pancreas,PRIMARY,Pancreatic Cancer,40
+26,Pancreatic Adenocarcinoma,Pancreas,PRIMARY,Pancreatic Cancer,10
+27,Adenocarcinoma of the Gastroesophageal Junction,Esophagus/Stomach,PRIMARY,Esophagogastric Carcinoma,80
+28,Invasive Breast Carcinoma,Liver,METASTATIC RECURRENCE,Breast Carcinoma,60
+29,Poorly Differentiated Non-Small Cell Lung Cancer,Lung,PRIMARY,Non-Small Cell Lung Cancer,40
+30,Oligodendroglioma,CNS/Brain,LOCAL RECURRENCE,Glioma,60
+31,Glioblastoma,CNS/Brain,PRIMARY,Glioma,70
+32,Glioblastoma,CNS/Brain,PRIMARY,Glioma,80
+33,Primary Brain Tumor,CNS/Brain,PRIMARY,Miscellaneous Brain Tumor,50
+34,Pancreatic Adenocarcinoma,Liver,METASTATIC RECURRENCE,Pancreatic Cancer,30
+35,Uterine Endometrioid Carcinoma,Uterus,PRIMARY,Endometrial Cancer,60
+36,"Poorly Differentiated Carcinoma, NOS",Bladder/Urinary Tract,PRIMARY,Cancer of Unknown Primary,60
+37,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY,Bladder Cancer,30
+38,Breast Invasive Ductal Carcinoma,Liver,METASTATIC RECURRENCE,Breast Carcinoma,50
+39,Esophageal Adenocarcinoma,Esophagus/Stomach,PRIMARY,Esophagogastric Carcinoma,40
+40,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
+41,Breast Invasive Ductal Carcinoma,Breast,PRIMARY,Breast Carcinoma,30
+42,Diagnosis Pending - New,Diagnosis Pending - New,UNSPECIFIED,,60
+43,Anaplastic Oligodendroglioma,CNS/Brain,PRIMARY,Glioma,75
+44,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,Uterus,PRIMARY,Endometrial Cancer,70
+45,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,25
+46,"Adenocarcinoma, NOS",Liver,UNSPECIFIED,Cancer of Unknown Primary,70
+47,Glioblastoma,CNS/Brain,PRIMARY,Glioma,60
+48,Lung Adenocarcinoma,CNS/Brain,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,80
+49,Uterine Leiomyoma,Uterus,PRIMARY,Uterine Sarcoma,90
+50,Pancreatic Adenocarcinoma,Liver,METASTATIC RECURRENCE,Pancreatic Cancer,40
+51,Breast Invasive Ductal Carcinoma,Breast,PRIMARY,Breast Carcinoma,60
+52,No OncoTree Node Found,Skin,UNSPECIFIED,NO_ONCOTREE_NODE_FOUND,80
+53,Langerhans Cell Histiocytosis,Lymph,PRIMARY,Histiocytosis,70
+54,Follicular Lymphoma,Lymph,PRIMARY,Non-Hodgkin Lymphoma,70
+55,Pancreatic Adenocarcinoma,Liver,METASTATIC RECURRENCE,Pancreatic Cancer,30
+56,Adenocarcinoma of the Gastroesophageal Junction,Esophagus/Stomach,PRIMARY,Esophagogastric Carcinoma,25
+57,Renal Medullary Carcinoma,Kidney,PRIMARY,Renal Cell Carcinoma,30
+58,Glioblastoma,CNS/Brain,PRIMARY,Glioma,60
+59,Lung Squamous Cell Carcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,70
+60,Hemangioma,Soft Tissue,PRIMARY,Soft Tissue Sarcoma,20
+61,T-Cell Acute Lymphoid Leukemia,Lymph,PRIMARY,Leukemia,90
+62,Squamous Cell Carcinoma of the Vulva/Vagina,Vulva/Vagina,PRIMARY,Vaginal Cancer,30
+63,Non-Small Cell Lung Cancer,CNS/Brain,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,40
+64,Intrahepatic Cholangiocarcinoma,Liver,PRIMARY,Biliary Cancer,50
+65,High-Grade Serous Ovarian Cancer,Ovary/Fallopian Tube,PRIMARY,Ovarian Cancer,70
+66,Acute Lymphoid Leukemia,Bone,PRIMARY,Leukemia,90
+67,Gastrointestinal Stromal Tumor,Liver,METASTATIC RECURRENCE,Gastrointestinal Stromal Tumor,80
+68,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,20
+69,Myelodysplasia,Blood,PRIMARY,Myelodysplasia,50
+70,Diagnosis Unavailable,Diagnosis Unavailable,DIAGNOSIS UNAVAILABLE,,50
+71,Ependymoma,CNS/Brain,UNSPECIFIED,Ependymomal Tumor,70
+72,Lung Adenocarcinoma,Lymph,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,40
+73,Prostate Adenocarcinoma,Prostate,PRIMARY,Prostate Cancer,70
+74,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
+75,"Squamous Cell Carcinoma, NOS",Bone,METASTATIC RECURRENCE,Cancer of Unknown Primary,30
+76,Diagnosis Unavailable,Diagnosis Unavailable,DIAGNOSIS UNAVAILABLE,,80
+77,No OncoTree Node Found,Soft Tissue,UNSPECIFIED,NO_ONCOTREE_NODE_FOUND,90
+78,Appendiceal Adenocarcinoma,Bowel,PRIMARY,Appendiceal Cancer,20
+79,Colon Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,30
+80,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,20
+81,Esophagogastric Adenocarcinoma,Liver,METASTATIC RECURRENCE,Esophagogastric Carcinoma,20
+82,"High-Grade Glioma, NOS",CNS/Brain,PRIMARY,Glioma,40
+83,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
+84,Acute Myeloid Leukemia,Blood,UNSPECIFIED,Leukemia,90
+85,Lung Adenocarcinoma,Liver,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,40
+86,Rectal Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,40
+87,Glioblastoma,CNS/Brain,UNSPECIFIED,Glioma,70
+88,High-Grade Serous Ovarian Cancer,Other,METASTATIC RECURRENCE,Ovarian Cancer,90
+89,Gastrointestinal Neuroendocrine Tumors,Liver,METASTATIC RECURRENCE,Gastrointestinal Neuroendocrine Tumor,50
+90,Breast Mixed Ductal and Lobular Carcinoma,Breast,PRIMARY,Breast Carcinoma,40
+91,Leiomyosarcoma,Vulva/Vagina,PRIMARY,Soft Tissue Sarcoma,80
+92,Breast Invasive Ductal Carcinoma,Lymph,METASTATIC RECURRENCE,Breast Carcinoma,70
+93,Breast Invasive Ductal Carcinoma,Breast,PRIMARY,Breast Carcinoma,90
+94,Lung Adenocarcinoma,Lymph,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,5
+95,Colon Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,40
+96,Renal Non-Clear Cell Carcinoma,Kidney,PRIMARY,Renal Cell Carcinoma,70
+97,Lung Adenocarcinoma,Pleura,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,30
+98,"Adenocarcinoma, NOS",Liver,METASTATIC RECURRENCE,Cancer of Unknown Primary,70
+99,Stomach Adenocarcinoma,Esophagus/Stomach,PRIMARY,Esophagogastric Carcinoma,15
+100,Breast Invasive Ductal Carcinoma,Breast,PRIMARY,Breast Carcinoma,80
+101,"Sarcoma, NOS",Soft Tissue,PRIMARY,Soft Tissue Sarcoma,80
+102,Melanoma,Liver,METASTATIC RECURRENCE,Melanoma,40
+103,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,Uterus,PRIMARY,Endometrial Cancer,70
+104,Lung Adenocarcinoma,Soft Tissue,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,20
+105,Astrocytoma,CNS/Brain,LOCAL RECURRENCE,Glioma,80
+106,Diffuse Glioma,CNS/Brain,UNSPECIFIED,Glioma,30
+107,Signet Ring Cell Adenocarcinoma of the Colon and Rectum,Bowel,PRIMARY,Colorectal Cancer,30
+108,Papillary Thyroid Cancer,Thyroid,PRIMARY,Thyroid Cancer,80
+109,Thymoma,Pleura,UNSPECIFIED,Thymic Tumor,70
+110,Papillary Thyroid Cancer,Thyroid,PRIMARY,Thyroid Cancer,80
+111,Sarcomatoid Carcinoma of the Lung,Soft Tissue,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,80
+112,Gallbladder Cancer,Liver,METASTATIC RECURRENCE,Biliary Cancer,20
+113,Pituitary Adenoma,CNS/Brain,LOCAL RECURRENCE,Sellar Tumor,-1
+114,Diffuse Glioma,CNS/Brain,PRIMARY,Glioma,70
+115,Breast Invasive Lobular Carcinoma,Soft Tissue,METASTATIC RECURRENCE,Breast Carcinoma,80
+116,Pancreatic Adenocarcinoma,Pancreas,PRIMARY,Pancreatic Cancer,30
+117,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,50
+118,B-Cell Lymphoma,Other,UNSPECIFIED,Non-Hodgkin Lymphoma,30
+119,Colon Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,40
+120,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY,Esophagogastric Carcinoma,70
+121,Head and Neck Squamous Cell Carcinoma of Unknown Primary,Lymph,METASTATIC RECURRENCE,Head and Neck Carcinoma,80
+122,Invasive Breast Carcinoma,CNS/Brain,METASTATIC RECURRENCE,NO_ONCOTREE_NODE_FOUND,50
+123,Pancreatic Adenocarcinoma,Pancreas,PRIMARY,Pancreatic Cancer,30
+124,Extraskeletal Myxoid Chondrosarcoma,Soft Tissue,PRIMARY,,90
+125,Well-Differentiated Liposarcoma,Soft Tissue,LOCAL RECURRENCE,Soft Tissue Sarcoma,90
+126,Colon Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,75
+127,Pancreatic Adenocarcinoma,Liver,METASTATIC RECURRENCE,Pancreatic Cancer,80
+128,Melanoma,Skin,PRIMARY,Melanoma,90
+129,Prostate Adenocarcinoma,Soft Tissue,METASTATIC RECURRENCE,Prostate Cancer,80
+130,Breast Invasive Lobular Carcinoma,Liver,METASTATIC RECURRENCE,Breast Carcinoma,60
+131,Merkel Cell Carcinoma,Skin,PRIMARY,"Skin Cancer, Non-Melanoma",70
+132,Invasive Breast Carcinoma,CNS/Brain,METASTATIC RECURRENCE,Breast Carcinoma,30
+133,Colon Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,70
+134,Breast Mixed Ductal and Lobular Carcinoma,Breast,PRIMARY,Breast Carcinoma,60
+135,Papillary Thyroid Cancer,Thyroid,PRIMARY,Thyroid Cancer,80
+136,Melanoma,Pleura,METASTATIC RECURRENCE,Melanoma,80
+137,Adrenocortical Carcinoma,Liver,METASTATIC RECURRENCE,Adrenocortical Carcinoma,70
+138,Gastrointestinal Stromal Tumor,Liver,METASTATIC RECURRENCE,Gastrointestinal Stromal Tumor,70
+139,Lung Adenocarcinoma,Lung,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,40
+140,Medulloblastoma,CNS/Brain,UNSPECIFIED,Embryonal Tumor,90
+141,Non-Small Cell Lung Cancer,CNS/Brain,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,30
+142,Pancreatic Adenocarcinoma,Liver,METASTATIC RECURRENCE,Pancreatic Cancer,40
+143,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,50
+144,Glioblastoma,CNS/Brain,PRIMARY,Glioma,60
+145,Acute Myeloid Leukemia,Blood,UNSPECIFIED,Leukemia,90
+146,Invasive Breast Carcinoma,Soft Tissue,LOCAL RECURRENCE,Breast Carcinoma,90
+147,Nasopharyngeal Carcinoma,Head and Neck,PRIMARY,Head and Neck Carcinoma,30
+148,Rectal Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,30
+149,Breast Invasive Ductal Carcinoma,Breast,PRIMARY,Breast Carcinoma,80
+150,High-Grade Serous Ovarian Cancer,Ovary/Fallopian Tube,UNSPECIFIED,Ovarian Cancer,70
+151,Pancreatic Adenocarcinoma,Pancreas,UNSPECIFIED,Pancreatic Cancer,30
+152,Colon Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,30
+153,Pancreatic Adenocarcinoma,Liver,METASTATIC RECURRENCE,Pancreatic Cancer,80
+154,Breast Invasive Ductal Carcinoma,Breast,PRIMARY,Breast Carcinoma,70
+155,Pancreatic Adenocarcinoma,Lung,METASTATIC RECURRENCE,Pancreatic Cancer,20
+156,Anaplastic Ependymoma,CNS/Brain,PRIMARY,Ependymomal Tumor,-1
+157,Sinonasal Undifferentiated Carcinoma,Head and Neck,PRIMARY,Head and Neck Carcinoma,40
+158,Glioblastoma,CNS/Brain,PRIMARY,Glioma,60
+159,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,50
+160,Cutaneous Melanoma,Lung,METASTATIC RECURRENCE,Melanoma,70
+161,Rectal Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,20
+162,Mucinous Adenocarcinoma of the Colon and Rectum,Bowel,PRIMARY,Colorectal Cancer,50
+163,Glioblastoma,CNS/Brain,UNSPECIFIED,Glioma,70
+164,Uterine Endometrioid Carcinoma,Lymph,METASTATIC RECURRENCE,Endometrial Cancer,50
+165,Prostate Adenocarcinoma,Bone,METASTATIC RECURRENCE,Prostate Cancer,20
+166,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
+167,Invasive Breast Carcinoma,Bone,METASTATIC RECURRENCE,Breast Carcinoma,30
+168,Oligodendroglioma,CNS/Brain,PRIMARY,Glioma,60
+169,Glioblastoma,CNS/Brain,PRIMARY,Glioma,40
+170,Ganglioneuroblastoma,Soft Tissue,PRIMARY,Embryonal Tumor,60
+171,Glioblastoma,CNS/Brain,PRIMARY,Glioma,70
+172,Well-Differentiated Liposarcoma,Bowel,PRIMARY,Soft Tissue Sarcoma,80
+173,Invasive Breast Carcinoma,Lymph,METASTATIC RECURRENCE,Breast Carcinoma,60
+174,Anaplastic Thyroid Cancer,Unknown,PRIMARY,Thyroid Cancer,10
+175,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,50
+176,Papillary Thyroid Cancer,Thyroid,PRIMARY,Thyroid Cancer,95
+177,Melanoma,Liver,METASTATIC RECURRENCE,Melanoma,90
+178,Oral Cavity Squamous Cell Carcinoma,Head and Neck,PRIMARY,Head and Neck Carcinoma,50
+179,High-Grade Serous Ovarian Cancer,Lymph,METASTATIC RECURRENCE,Ovarian Cancer,70
+180,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
+181,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
+182,High-Grade Serous Ovarian Cancer,Peritoneum,METASTATIC RECURRENCE,Ovarian Cancer,40
+183,Lung Adenocarcinoma,Lymph,METASTATIC RECURRENCE,Non-Small Cell Lung Cancer,20
+184,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
+185,Pancreatic Adenocarcinoma,Pancreas,PRIMARY,Pancreatic Cancer,20
+186,Lung Squamous Cell Carcinoma,Lung,LOCAL RECURRENCE,Non-Small Cell Lung Cancer,80
+187,"Adenocarcinoma, NOS",CNS/Brain,METASTATIC RECURRENCE,Cancer of Unknown Primary,60
+188,Uterine Endometrioid Carcinoma,Uterus,PRIMARY,Endometrial Cancer,60
+189,Papillary Thyroid Cancer,Thyroid,PRIMARY,Thyroid Cancer,60
+190,Bladder Urothelial Carcinoma,Lung,METASTATIC RECURRENCE,Bladder Cancer,50
+191,Colorectal Adenocarcinoma,Bowel,PRIMARY,Colorectal Cancer,60
+192,Esophagogastric Adenocarcinoma,Liver,METASTATIC RECURRENCE,Esophagogastric Carcinoma,50
+193,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,50
+194,Multiple Myeloma,Blood,UNSPECIFIED,Multiple Myeloma,-1
+195,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
+196,Papillary Thyroid Cancer,Thyroid,PRIMARY,Thyroid Cancer,80
+197,Anaplastic Thyroid Cancer,Thyroid,PRIMARY,Thyroid Cancer,30
+198,High-Grade Serous Ovarian Cancer,Peritoneum,UNSPECIFIED,Ovarian Cancer,40
+199,Lung Adenocarcinoma,Lung,PRIMARY,Non-Small Cell Lung Cancer,30
