@@ -42,7 +42,7 @@ if __name__ == "__main__":
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Query an SQLite database using LangChain and Azure OpenAI.')
     parser.add_argument('-q', '--question', type=str, required=True, help='The question to ask the database')
-    parser.add_argument('-d', '--database', type=str, default='example.db', help='Path to the SQLite database file')
+    parser.add_argument('-d', '--database', type=str, default='tests/example.db', help='Path to the SQLite database file')
     
     args = parser.parse_args()
 
