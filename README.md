@@ -47,7 +47,7 @@ bash chatbot_setup.sh
 
 Close the window after logging in and get back to the shell.
 
-## 🟢  Run the chatbot demo
+## 🟢  Run the chatbot demos
 
 ### Set up environment variables
 Please copy the template file `env_template` to create `.env` and fill in the following values:
@@ -71,9 +71,15 @@ CHROMADB_STORAGE_PATH=./chromadb
 Turn on the VPN or make sure you are running from an on-prem resource.
 ```
 
-### Run the demo
+### Run the Semantic chatbot demo
 ```
 bash chatbot_demo.sh -q "<Your question about OncDRS>"
+```
+
+### Run the Text-to-SQL chatbot demo
+One test SQLite database `example.db` has been established in `tests` folder based on CSV file: `tests/2023-12-11_1_05pm.csv`.
+```
+python sql_query_agent.py -q "<Your question about test data in example.db>"
 ```
 
 ### Update the vector database to date
