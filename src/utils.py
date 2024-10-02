@@ -2,6 +2,8 @@ import hashlib
 from tqdm import tqdm
 from src.azure_client import client, embed_text, embedding_model, completion_model
 from src.chroma_client import chroma_client
+from langchain_core.messages import SystemMessage
+from chatbot_config import *
 
 def generate_short_hash(text):
     """
@@ -81,10 +83,12 @@ def generate_answer(question, relevant_docs, azure_openai_client, model="gpt-4o-
     context = " ".join(relevant_docs['documents'][0])
 
     # Generate the answer using Azure OpenAI GPT-4o
+    system_message = SystemMessage(SEMANTIC_SYSTEM)
     response = azure_openai_client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", "content": "You are an AI with super-human data extraction and summarization abilities."},
+            # {"role": "system", "content": "You are an AI with super-human data extraction and summarization abilities."},
+            {"role": "system", "content": f"{SEMANTIC_SYSTEM}"},
             {"role": "user", "content": f"Context: {context}\n\nQuestion: {question}"}
         ],
         max_tokens=1500
