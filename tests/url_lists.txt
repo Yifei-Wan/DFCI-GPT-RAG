@@ -72,3 +72,5 @@ https://wiki.dfci.harvard.edu:8443/oncdata/latest/oncdrs-data-dictionary-details
 https://wiki.dfci.harvard.edu:8443/oncdata/latest/oncdrs-data-dictionary-details/curated-data/radiation-oncology
 https://wiki.dfci.harvard.edu:8443/oncdata/latest/oncdrs-data-dictionary-details/curated-data/hospitalization
 https://wiki.dfci.harvard.edu:8443/oncdata/latest/oncdrs-data-dictionary-details/curated-data/tumor-marker
+
+https://wiki.dfci.harvard.edu:8443/oncdata/latest/data-type-summary
