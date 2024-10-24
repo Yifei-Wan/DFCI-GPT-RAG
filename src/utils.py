@@ -109,7 +109,7 @@ def get_relevant_docs(question, chroma_client, collection_name="my_embeddings_co
     results = collection.query(
         query_embeddings=[question_embedding],
         include=["documents"],
-        n_results=10  # Adjust as needed
+        n_results=25  # Adjust as needed
     )
     
     return results

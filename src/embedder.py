@@ -43,7 +43,7 @@ class CSVEmbedder:
         """
         return ", ".join([f"{col}: {row[col]}" for col in row.index])
 
-    def generate_schema_and_summary(self, df, n_rows=50):
+    def generate_schema_and_summary(self, df, n_rows=150):
         """
         Calls the completion API to generate a schema and summary for the DataFrame.
         """
@@ -70,14 +70,19 @@ class CSVEmbedder:
             response = self.azure_openai_client.chat.completions.create(
                 model=self.model,
                 messages=[
-                    {"role": "system", "content": "You are an AI with expertise in data analysis and summarization."},
+                    {"role": "system", "content": """
+                     You are an AI tasked with generating a structured summarization of CSV table schemas for embedding into a vector database. 
+                     Analyze the head of the input CSV, focusing on column names, data types, and any visible patterns or relationships in the data. 
+                     Your output should be concise, well-formatted, and in a clean textual structure that can be easily embedded into a vector database. 
+                     Ensure the summary is comprehensive enough to support meaningful retrieval in future queries, and avoid unnecessary details. 
+                     Use a consistent and simple format to describe the schema and key features of the table."""},
                     {"role": "user", "content": f"Context: {context}\n\nQuestion: {question}"}
                 ],
                 max_tokens=2000
             )
 
             # Extract the response text
-            schema_and_summary = f"Table Name: {file_name}. " + response.choices[0].message.content.strip()
+            schema_and_summary = f"Table from: {file_name}. " + response.choices[0].message.content.strip()
         except Exception as e:
             raise e
             # print(f"Error generating schema and summary: {e}")
